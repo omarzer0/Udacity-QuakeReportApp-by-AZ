@@ -21,5 +21,10 @@
         <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
         <item name="colorAccent">@color/colorAccent</item>
     </style>
+    
+<!--    <style name="tv_layout">-->
+
+<!--        <item name="android:textAppearance">@style/TextAppearance.AppCompat.Medium</item>-->
+<!--    </style>-->
 
 </resources>
